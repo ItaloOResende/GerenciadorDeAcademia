@@ -1,3 +1,3 @@
 # GerenciadorDeAcademia
-<h1>Programa de gerencia de academia:</h1>
+<h2>Programa de gerencia de academia:</h2>
 
