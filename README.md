@@ -1,12 +1,21 @@
 # GerenciadorDeAcademia
 <h2>Programa de gerencia de academia</h2>
-<li>Cadastro de alunos e professores</li>
-<li>Atualização e exclusão de dados de alunos ou professores</li>
-<li>Criação e modificação de turmas</li>
+<li>Cadastro e atualização de dados de alunos e professores</li>
+
+![cadastro de alunos](https://user-images.githubusercontent.com/88686721/141026841-4ac63263-e3ef-47f0-a7f7-0daf98127f31.png)
+
+<li>Cadastro de modalidades e turmas</li>
+
+![cadastro de turmas](https://user-images.githubusercontent.com/88686721/141026955-223656df-154f-4d7a-85e3-5e702ec86d66.png)
+
+<li>Tabela de ex alunos</li>
+
+![ex alunos](https://user-images.githubusercontent.com/88686721/141027027-a09ba17a-96e0-40c2-83a6-d76be24d9cdf.png)
+
+<li>Tabela da fila de espera</li>
+
+![fila de espera](https://user-images.githubusercontent.com/88686721/141027090-3d480fe7-878b-4d8c-bf29-8c80acac7a94.png)
+
 <li>Folha de pagamento</li>
 
-![cadastro de alunos](https://user-images.githubusercontent.com/88686721/141025453-e7b71591-4c24-48ca-aee1-f4c3cddfcd78.png)
-![folha de pagamento](https://user-images.githubusercontent.com/88686721/141025535-dc575a1a-44b5-4636-81d4-ca7d5823f67d.png)
-![cadastro de turmas](https://user-images.githubusercontent.com/88686721/141025635-92829e6f-5607-419f-aa12-3c974cca93b8.png)
-![ex alunos](https://user-images.githubusercontent.com/88686721/141025693-95a84bac-3380-40c0-9be4-171f79c8436b.png)
-![fila de espera](https://user-images.githubusercontent.com/88686721/141025754-bf3d5cf2-a5a7-4f54-b616-ea21a81548a7.png)
+![folha de pagamento](https://user-images.githubusercontent.com/88686721/141027128-1bbe8ef1-27cf-4165-b419-7c0e03750c69.png)
