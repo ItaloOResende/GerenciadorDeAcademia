@@ -1,5 +1,5 @@
-# GerenciadorDeAcademia
-<h2>Programa de gerencia de academia</h2>
+# Gerenciador De Academia
+<h2>Programa de gerência de academia</h2>
 <li>Cadastro e atualização de dados de alunos e professores</li>
 
 ![cadastro de alunos](https://user-images.githubusercontent.com/88686721/141026841-4ac63263-e3ef-47f0-a7f7-0daf98127f31.png)
